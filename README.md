@@ -10,11 +10,11 @@ Game's target audience are young adults that are fighting cancer. Or anyone who 
 
 ## Game Implementation
 
-- Tumor Raider users standard FPS script provided by Unity. 
+- Tumor Raider users standard FPS script provided by Unity
 
-- Graphics are done using Maya and Photoshop CC. 
+- Graphics are done using Maya and Photoshop CC
 
-- Original scripts (JavaScript) location: Tumor_Raider/Assets/Scripts folder.
+- Original scripts (JavaScript) location: Tumor_Raider/Assets/Scripts
 
 - Exe file location: Tumor_Raider/Build
 
